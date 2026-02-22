@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
 
-      base: '/NEW-Red-Rock-Chiropractic-Website/',
+      base: './',
       server: {
         port: 3000,
         host: '0.0.0.0',
