@@ -78,7 +78,7 @@ export const FAQS = [
   },
   {
     question: "Do you accept insurance?",
-    answer: "Yes, we accept most major insurance plans including BCBS, Aetna, United Healthcare, and Medicare. We also offer affordable self-pay rates."
+    answer: "Yes, we accept most major insurance plans, including Medicare, Personal Injury (Automobile Accidents), Workman's Comp, and VA (Veterans Affairs). We also offer affordable self-pay rates."
   }
 ];
 
