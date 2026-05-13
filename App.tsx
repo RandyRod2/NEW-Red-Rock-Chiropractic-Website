@@ -26,7 +26,7 @@ const Hero: React.FC<{ onBookClick: () => void; onNavigate: (id: string) => void
       <div className="max-w-4xl">
         <div className="inline-flex items-center gap-3 px-5 py-2.5 bg-blue-500/10 backdrop-blur-xl border border-blue-400/20 rounded-full mb-8">
           <div className="w-2.5 h-2.5 rounded-full bg-terracotta animate-pulse shadow-[0_0_15px_rgba(195,106,61,1)]"></div>
-          <span className="text-white text-[10px] font-bold uppercase tracking-[0.45em] font-heading">Now Accepting New Patients in Sedona</span>
+          <span className="text-white text-[10px] font-bold uppercase tracking-[0.45em] font-heading">Now Accepting New Patients in Cottonwood</span>
         </div>
         
         <h1 className="text-5xl sm:text-6xl md:text-[120px] font-black text-white mb-6 tracking-tighter uppercase leading-[0.9] md:leading-[0.85] font-heading drop-shadow-[0_10px_60px_rgba(0,0,0,0.9)]">
